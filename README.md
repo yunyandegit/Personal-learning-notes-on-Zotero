@@ -1,6 +1,6 @@
 <p align="center"><strong>目录（目前还未更新完）</strong></p>  <!-- 注释:这句代码的效果为加粗居中 -->
 
-- [一、仓库Personal-learning-notes-on-Zotero的介绍](#一仓库personal-learn- [一、仓库Personal-learning-notes-on-Zotero的介绍](#一仓库personal-learning-notes-on-zotero的介绍)
+- [一、仓库Personal-learning-notes-on-Zotero的介绍](#一仓库personal-learning-notes-on-zotero的介绍)
 - [二、免责声明：](#二免责声明)
 - [三、参考来源：](#三参考来源)
 - [四、为什么选择Zotero、安装Zotero（笔记的第一章）](#四为什么选择zotero安装zotero笔记的第一章)
@@ -12,18 +12,7 @@
   - [4.2 如何获取Zotero软件](#42-如何获取zotero软件)
   - [4.3 安装软件Zotero](#43-安装软件zotero)
   - [4.4 安装Zotero的插件（本次以Edge为例，视频介绍了对应谷歌插件的安装方法）](#44-安装zotero的插件本次以edge为例视频介绍了对应谷歌插件的安装方法)
-ing-notes-on-zotero的介绍)
-- [二、免责声明：](#二免责声明)
-- [三、参考来源：](#三参考来源)
-- [四、为什么选择Zotero、安装Zotero（笔记的第一章）](#四为什么选择zotero安装zotero笔记的第一章)
-  - [4.1 文献管理软件的优势（Zotero更加强大）](#41-文献管理软件的优势zotero更加强大)
-    - [（1）使用文件夹的问题](#1使用文件夹的问题)
-    - [（2）使用excel的优缺点](#2使用excel的优缺点)
-    - [（3）所以使用文献管理软件](#3所以使用文献管理软件)
-    - [（4）几种常用文献管理软件对比——选择Zotero](#4几种常用文献管理软件对比选择zotero)
-  - [4.2 如何获取Zotero软件](#42-如何获取zotero软件)
-  - [4.3 安装软件Zotero](#43-安装软件zotero)
-  - [4.4 安装Zotero的插件（本次以Edge为例，视频介绍了对应谷歌插件的安装方法）](#44-安装zotero的插件本次以edge为例视频介绍了对应谷歌插件的安装方法)
+
 
 
 <!-- 注释: 目前给Markdown All in One设的快捷键有，免得忘了：“Ctr+,”：生成目录；“Ctr+；”：更新目录 -->
