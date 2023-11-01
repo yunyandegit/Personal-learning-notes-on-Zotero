@@ -125,7 +125,17 @@ ___
 ![Alt text](5-18.png)
 &emsp;&emsp;（注：上一张图鼠标滚动了下才看到提示，然后才截的图。）
 ### 5.1.2_续 本人的操作流程
-&emsp;&emsp;经过上面的操作后，我们再来重新进入知网上检索一下需要的内容。发现插件Zotero已经变成黄色的文件夹，此时可以如下图所示将知网上的多个文献收集到软件Zotero中。（为了节省学校的资源，本人只选了三个。）
+&emsp;&emsp;注：经过上面的操作后，请重启浏览器，然后直接进入知网检索页面（`“https://kns.cnki.net/kns8/defaultresult/index”`），这样在知网搜索后Zotero插件才会显示为黄色文件夹。如果进入知网官网后再进入检索页面，发现Zotero没有变成黄色文件夹，此时Zotero插件无法批量捕获知网的pdf文件。下面两张动图给出了对比。
+<!-- 注释: 下面的两个div块插入了两张居中的图 -->
+<div align="center">
+  <img src="5-18-%E4%B8%AD%E9%97%B4%E8%A1%A51.gif" alt="Alt text" />
+  <p><em>直接进入检索可正常使用Zotero插件的示意图</em></p>
+</div>
+<div align="center">
+  <img src="5-18-%E4%B8%AD%E9%97%B4%E8%A1%A52.gif" alt="Alt text" />
+  <p><em>如果进入知网官网再进入检索页面，发现Zotero没有变成黄色文件夹</em></p>
+</div>
+&emsp;&emsp;接着，我们重新进入知网上检索页面检索一下需要的内容。发现插件Zotero已经变成黄色的文件夹，此时可以如下图所示将知网上的多个文献收集到软件Zotero中。（为了节省学校的资源，本人只选了三个。）
 ![Alt text](5-19.png)
 &emsp;&emsp;再同样的方式收集英文数据库的文献。
 ![Alt text](5-20.png)
