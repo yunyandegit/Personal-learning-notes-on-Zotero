@@ -21,6 +21,7 @@
       - [5.1.2.3 如果早就安装过茉莉花插件，就尝试刷新茉莉花，并更新zotero connecter(即Zotero插件)。](#5123-如果早就安装过茉莉花插件就尝试刷新茉莉花并更新zotero-connecter即zotero插件)
       - [5.1.2.4 打开浏览器的设置→cookies和网站权限→允许→添加知网的网址。](#5124-打开浏览器的设置cookies和网站权限允许添加知网的网址)
     - [5.1.2\_续 本人的操作流程](#512_续-本人的操作流程)
+  - [5.2 通过标识符添加文献](#52-通过标识符添加文献)
 
 
 
@@ -41,22 +42,20 @@ ___
 
 ___  
 # 四、为什么选择Zotero、安装Zotero    ######（笔记的第一章）######
-![Alt text](image-5.png)
-![Alt text](image-6.png)
-![Alt text](image-7.png)
+![Alt text](4-1-1%E8%A1%A5.png)
+![Alt text](4-1-2%E8%A1%A5.png)
+![Alt text](4-1-3%E8%A1%A5.png)
 ## 4.1 文献管理软件的优势（Zotero更加强大）
 ### （1）使用文件夹的问题
-![Alt text](image.png)
+![Alt text](4-1-4%E8%A1%A5.png)
 ### （2）使用excel的优缺点
-![Alt text](image-1.png)
+![Alt text](4-1-5%E8%A1%A5.png)
 ### （3）所以使用文献管理软件
-![Alt text](image-2.png)
+![Alt text](4-1-6%E8%A1%A5.png)
 ### （4）几种常用文献管理软件对比——选择Zotero
-![Alt text](image-3.png)
-![Alt text](image-4.png)
-![Alt text](image-8.png)
+![Alt text](4-1-7%E8%A1%A5.png)
+![Alt text](4-1-8%E8%A1%A5.png)
 ## 4.2 如何获取Zotero软件
-![Alt text](image.png)
 &emsp;&emsp;如图所示，点击[**Zotero的官网**](https://www.zotero.org/)，点击“Download”，再点击左侧的“Download”即可下载软件Zotero（右侧是浏览器插件）（网页加载有点慢，看动图需要耐心点）。（当然本人也将安装包扔到了仓库中）
 ![Alt text](4-1.gif)
 ## 4.3 安装软件Zotero
@@ -73,24 +72,25 @@ ___
 &emsp;&emsp;之后，如下图，点击Zotero插件的眼睛，让插件在上方栏里进行显示。
 ![Alt text](4-9.png)
 &emsp;&emsp;下图是谷歌上Zotero的插件的安装方法。
-![Alt text](image-10.png)
+![Alt text](4-10.png)
+![Alt text](4-11.png)
 
 ___  
 # 五、收集题录
-![Alt text](image-11.png)
+![Alt text](5-1-1%E8%A1%A5.png)
 ## 5.1 在知网、外文等数据库以及网页等上使用Zotero插件收集题录
 ### 5.1.1 up主的操作流程
 &emsp;&emsp;如下图所示，是知网的检索界面，然后在知网的检索界面的这个页面上有很多篇文献。那么这个文献管理软件Zotero的插件会自动识别这个页面上的文献，如果说这这个页面上有多篇文献的话，它这块右上角的图标是显示为文件夹的。如果说是单篇文献的话，它会显示为个如一张纸的一个图标。
-![Alt text](image-12.png)
+![Alt text](5-1-2%E8%A1%A5.png)
 &emsp;&emsp;然后还是如上图所示，我们只要点击这个图标，那么弹出的这个对话框当中，我们可以选择我们想要搜集的文献。然后这时候就到第三步这一块，选择想要将它保存到指定的文件夹目录下面，然后这时候这些文献的题录就会保存下去。需要注意的是，因为这个软件对中文的文献不是那么友好，所以它这个中文的PDF全文像这个多篇文献的页面的话，它是没办法收集起来的。
 &emsp;&emsp;但是像下图这种单篇文献的这个页面的话，我们直接点击这一块进行这个文献的收集的话，它会将文献的题录以及它的PDF全文直接给收集进来。
-![Alt text](image-13.png)
+![Alt text](5-1-3%E8%A1%A5.png)
 &emsp;&emsp;下图是外文数据库。
-![Alt text](image-14.png)
+![Alt text](5-1-4%E8%A1%A5.png)
 &emsp;&emsp;下图是是普通的页面网页，还有些博客之类的，我们都可以将它们的题录信息进行收集。
-![Alt text](image-15.png)
+![Alt text](5-1-5%E8%A1%A5.png)
 &emsp;&emsp;收集进来以后，如下图所示，这个就是Zotero的一个主界面。它的所有的内容都在它的主界面上。
-![Alt text](image-16.png)
+![Alt text](5-1-6%E8%A1%A5.png)
 ### 5.1.2 本人的操作流程
 &emsp;&emsp;（注：请在确保能使用常规方法获取各个数据库的内容后，比如通过高校的途径获取数据库后，再进行下面如本人所示的操作。）  
 &emsp;&emsp;由于Zotero版本、知网等的更新，上面的方法可能会失效。于是我们按着步骤进行实际演示。第一步就出现问题了，于是本人去网上不断搜索，寻找方法。参考链接[**终于解决了zotero抓取中文文献的问题！！！！**](https://blog.csdn.net/hyyyyyyy499/article/details/129372982)和链接[**Zotero使用记录----3 茉莉花Jasminum插件的下载及功能**](https://blog.csdn.net/weixin_49818157/article/details/125261306)给出下面的方法。
@@ -143,7 +143,7 @@ ___
 ![Alt text](5-21.png)
 &emsp;&emsp;之后到Zotero查看，发现文献的pdf等都收集到Zotero里面了。
 ![Alt text](5-22.png)
-
+## 5.2 通过标识符添加文献
 
 
 
