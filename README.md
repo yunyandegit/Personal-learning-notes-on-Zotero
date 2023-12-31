@@ -24,7 +24,7 @@
 
 
 
-<!-- 注释: 目前给Markdown All in One设的快捷键有，免得忘了：“Ctr+,”：生成目录；“Ctr+；”：更新目录 -->
+<!-- 注释: 目前给Markdown All in One设的快捷键有，免得忘了：“Ctr+,”：生成目录;  “Ctr+；”：更新目录 -->
 
 ___  
 # 一、仓库Personal-learning-notes-on-Zotero的介绍  
@@ -135,13 +135,14 @@ ___
   <img src="5-18-%E4%B8%AD%E9%97%B4%E8%A1%A52.gif" alt="Alt text" />
   <p><em>如果进入知网官网再进入检索页面，发现Zotero没有变成黄色文件夹</em></p>
 </div>
-&emsp;&emsp;接着，我们重新进入知网上检索页面检索一下需要的内容。发现插件Zotero已经变成黄色的文件夹，此时可以如下图所示将知网上的多个文献收集到软件Zotero中。（为了节省学校的资源，本人只选了三个。）
+
+&emsp;&emsp;接着，我们重新进入知网上检索页面检索一下需要的内容。发现插件Zotero已经变成黄色的文件夹，此时可以如下图所示将知网上的多个文献收集到软件Zotero中。(为了节省学校的资源，本人只选了三个。)
 ![Alt text](5-19.png)
 &emsp;&emsp;再同样的方式收集英文数据库的文献。
 ![Alt text](5-20.png)
 ![Alt text](5-21.png)
 &emsp;&emsp;之后到Zotero查看，发现文献的pdf等都收集到Zotero里面了。
-![Alt text](5-22-1.png)
+![Alt text](5-22.png)
 
 
 
