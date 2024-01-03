@@ -1,4 +1,4 @@
-<p align="center"><strong>目录（目前还未更新完）</strong></p>  <!-- 注释:这句代码的效果为加粗居中 -->
+<p align="center"><strong>目录（已更新完成）</strong></p>  <!-- 注释:这句代码的效果为加粗居中 -->
 
 - [一、仓库Personal-learning-notes-on-Zotero的介绍](#一仓库personal-learning-notes-on-zotero的介绍)
 - [二、免责声明：](#二免责声明)
