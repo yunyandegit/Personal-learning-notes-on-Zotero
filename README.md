@@ -66,6 +66,14 @@
   - [9.4 文献引用目录的格式问题](#94-文献引用目录的格式问题)
   - [9.5 团队成员共享文献](#95-团队成员共享文献)
   - [9.6 小结](#96-小结)
+- [十、目前本人已装插件  ########### 后面为本人的补充](#十目前本人已装插件---后面为本人的补充)
+  - [1.茉莉花Jasminum插件](#1茉莉花jasminum插件)
+  - [2.PDFTranslate翻译插件](#2pdftranslate翻译插件)
+    - [（1）下载地址](#1下载地址)
+    - [（2）使用方法](#2使用方法)
+  - [3.用于调研、对论文进行总结的笔记插件Zotero Better Notes](#3用于调研对论文进行总结的笔记插件zotero-better-notes)
+    - [（1）下载地址](#1下载地址-1)
+    - [（2）使用方法](#2使用方法-1)
 
 
 
@@ -243,6 +251,7 @@ ___
 &emsp;&emsp;然后还可以通过剪贴版导入或者是批量导入。批量导入的话，我们是可以在数据库上直接检索多篇文献。但是，其实数据库上检索多篇文献，我们也可以通过浏览器插件直接导入。那么对于从其他的文献管理软件进行导入的话，我们可以选择这个批量导入。<br>
 &emsp;&emsp;好，最后一种是手动添加。
 
+___ 
 # 六、管理题录
 &emsp;&emsp;接下来我们来看一下对题录进行管理。
 ![Alt text](图片/6-1.png)
@@ -327,6 +336,7 @@ ___
 &emsp;&emsp;（6）然后RSS订阅的话，可以追踪某一本期刊的发文情况。<br>
 &emsp;&emsp;（7）还有就是快捷键。<br>
 
+___ 
 # 七、在论文中插入引文
 &emsp;&emsp;我们再接着进入第四部分，就是在论文中插入引文。<br>
 ![Alt text](图片/7-1.png)
@@ -392,6 +402,7 @@ ___
 ![Alt text](图片/7-19.png)
 &emsp;&emsp;这一块内容讲的主要是怎么添加引文、在同一个位置添加多篇引文。然后如果想要更改我们添加的这个引文，我们可以对它进行编辑。然后编辑引文目录呢，一般是在小细节修改的时候可以用到。然后还可以导入新的引文样式，对引文样式进行更改，或者是我们文档当中的引文样式，一键进行修改。还有移除域代码，只保留它的文本信息。<br>
 
+___ 
 # 八、同步文献
 ![Alt text](图片/8-1.png)
 &emsp;&emsp;前面主要讲的就是Zotero的大概的功能，接下来我们来讲一下它的文献同步功能。<br>
@@ -439,6 +450,7 @@ mklink /j "D:\Zotero\storage"  # 创建坚果云的软链接
 ## 8.4 附件链接的同步：Onedrive+ZotFile（不具体介绍）
 &emsp;&emsp;还有一种方式,附件链接同步的方式。这个还需要用到一个同步盘Onedrive,加一个插件搜集file。感兴趣的同学可以自己回去研究一下。<br>
 
+___ 
 # 九、插件与常见问题
 &emsp;&emsp;第六部分，我们就来讲一下Zotero的插件以及我们在使用这个软件的时候会碰到的一些常见的问题。前面也提到过这个软件（即Zotero），它是免费的，并且它是开源的。开源的话就意味着它拥有很多很多的插件，然后这些插件也都是免费的。那么今天我们就介绍两个比较常用的插件，一款叫茉莉花插件，一款是翻译插件PDFTranslate的插件。<br>
 ![Alt text](图片/9-1.png)
@@ -464,7 +476,7 @@ mklink /j "D:\Zotero\storage"  # 创建坚果云的软链接
 &emsp;&emsp;那么对于某一段内容或者是某一个单词，我们将它选择以后进行**高亮**。那么高亮以后，它会加入到左侧这一块的**注释栏**。对于在注释栏里的内容，我们在安装了这个插件以后，它会自动对注释的内容进行翻译，然后自动加入到这个注释栏里面。<br>
 ### 9.2.2 PDFTranslate插件的翻译引擎
 ![Alt text](图片/9-9.png)
-&emsp;&emsp;好，如上图，在Zotero的“编辑-首选项-Translate”的这里，它默认的翻译引擎是谷歌翻译。我们可以在这一块设置它默认的翻译引擎以及它默认的翻译语言。<br>、
+&emsp;&emsp;好，如上图，在Zotero的“编辑-首选项-Translate”的这里，它默认的翻译引擎是谷歌翻译。我们可以在这一块设置它默认的翻译引擎以及它默认的翻译语言。<br>
 
 ## 9.3 CNKI页面批量抓取题录失败(更新编译器)
 &emsp;&emsp;接下来我们再讲一下，就是使用这个软件的时候会碰到的一些问题。有些同学可能会说在知网的那个页面进行批量抓取题录的时候，有时候会出现失败。那么这个呢，一般是因为这个编译器**没有及时更新**。一般情况下，我们是不需要进行更新的。那么有时候会出现一些问题，可能出现编译器过时的情况。那么这时候我们就可以自己去更新一下这个编译器。<br>
@@ -533,4 +545,30 @@ mklink /j "D:\Zotero\storage"  # 创建坚果云的软链接
 ![Alt text](图片/9-23.png)
 &emsp;&emsp;大家有什么问题的话，可以提问。<br>
 ![Alt text](图片/9-24.png)
+
+___ 
+# 十、目前本人已装插件  ########### 后面为本人的补充 #########
+
+## 1.茉莉花Jasminum插件
+&emsp;&emsp;Jasminum(茉莉花)插件常用于收集题录，下载网址：[**Jasminum的github仓库**](https://github.com/l0o0/jasminum)。建议下载版本“**0.2.7**”，使用方法参考本次笔记的“**9.1 Jasminum(茉莉花)插件**”。<br>
+![Alt text](图片/10-1.png)
+
+## 2.PDFTranslate翻译插件
+### （1）下载地址 
+&emsp;&emsp;翻译插件PDFTranslate，建议下载版本“1.0.25”。下载地址：[**PDFTranslate 1.0.25**](https://github.com/windingwind/zotero-pdf-translate/releases/tag/v1.0.25)。<br>
+![Alt text](图片/10-2.png)
+### （2）使用方法
+&emsp;&emsp;使用方法：[**PDFTranslate的中文文档**](https://zotero.yuque.com/staff-gkhviy/pdf-trans?)。<br>
+![Alt text](图片/10-3.png)
+
+## 3.用于调研、对论文进行总结的笔记插件Zotero Better Notes
+### （1）下载地址 
+&emsp;&emsp;插件Zotero Better Notes的下载地址：[**zotero-better-notes_0.8.9**](https://github.com/windingwind/zotero-better-notes/releases/tag/0.8.9)。<br>
+![Alt text](图片/10-4.png)
+### （2）使用方法
+&emsp;&emsp;对应b站视频：[2022.06.26 特别活动 | Zotero 文献管理与知识整理最佳实践](https://www.bilibili.com/video/BV1Cv4y1M7BY/?t=1517&spm_id_from=333.1350.jump_directly&vd_source=ffb19c330efad3ae5d7d43710d936b1f),请从视频的“**49:23**”开始观看，方法适用于版本“0.8.9”以及之前。<br>
+![Alt text](图片/10-5.png)
+&emsp;&emsp;对应中文文档：[Zotero Better Notes的帮助文档](https://zotero.yuque.com/staff-gkhviy/better-notes)，方法适用于版本“0.8.9”以及之前。<br>
+![Alt text](图片/10-6.png)
+
 &emsp;&emsp;OK，本次笔记记录到此，谢谢大家。<br>
